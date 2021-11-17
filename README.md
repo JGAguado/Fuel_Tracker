@@ -1,9 +1,9 @@
-[![hacs][hacsbadge]][hacs]
+[![hacs][hacs-shield]][hacs]
 [![GitHub Release][releases-shield]][releases]
 [![License][license-shield]](LICENSE)
 
-![Project Maintenance][maintenance-shield]
-[![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
+[![Project Maintenance][maintenance-shield]][maintenance]
+[![BuyMeCoffee][buymecoffee-shield]][buymecoffee]
 
 # Fuel Tracker
 
@@ -26,7 +26,9 @@ latitude | `XX.XXXXXX`
 longitude | `YY.YYYYYY`
 fuel | `Diesel`, `Super95` or `CNG` 
 
-For example:
+
+## Example
+On the configuration.yml :
 
 ```yaml
 sensor:
@@ -42,8 +44,6 @@ sensor:
     longitude: !secret longitude_jet
     fuel: "Diesel"
 ```
-
-## Example of my configuration
 
 ![Example](/images/example.PNG)
 
@@ -73,17 +73,17 @@ For visualizing such cool graph, use the [mini-graph-card](https://github.com/ka
 
 
 
+[hacs-shield]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [hacs]: https://github.com/custom-components/hacs
-[hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 
 [releases-shield]: https://img.shields.io/github/release/SpaceDIY/Fuel_Tracker.svg?style=for-the-badge
 [releases]: https://github.com/SpaceDIY/Fuel_Tracker/releases
 
 [license-shield]: https://img.shields.io/github/license/SpaceDIY/Fuel_Tracker.svg?style=for-the-badge
 
-
 [maintenance-shield]: https://img.shields.io/badge/maintainer-J.%20G.%20Aguado-blue.svg?style=for-the-badge
+[maintenance]: https://github.com/SpaceDIY
 
+[buymecoffee-shield]: https://img.shields.io/badge/buy%20me%20a%20coffee-support-yellow.svg?style=for-the-badge
 [buymecoffee]: https://www.buymeacoffee.com/J.G.Aguado
-[buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-support-yellow.svg?style=for-the-badge
 
