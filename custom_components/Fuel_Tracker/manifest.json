@@ -1,0 +1,11 @@
+{
+    "domain": "fuel_tracker",
+    "name": "Fuel Tracker",
+    "documentation": "https://github.com/SpaceDIY/Fuel_Tracker",
+    "issue_tracker": "https://github.com/SpaceDIY/Fuel_Tracker/issues",
+    "dependencies": [],
+    "codeowners": ["@SpaceDIY"],
+    "requirements": [],
+    "iot_class": "cloud_polling",
+    "version": "1.0"
+}
