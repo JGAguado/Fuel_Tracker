@@ -45,7 +45,7 @@ sensor:
 
 ## Example of my configuration
 
-![Example](./images/example.png)
+![Example](/images/example.PNG)
 
 For visualizing such cool graph, use the [mini-graph-card](https://github.com/kalkih/mini-graph-card) custom integration!
 
