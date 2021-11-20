@@ -79,10 +79,10 @@ For visualizing such cool graph, use the [mini-graph-card](https://github.com/ka
 [releases-shield]: https://img.shields.io/github/release/SpaceDIY/Fuel_Tracker.svg?style=for-the-badge
 [releases]: https://github.com/SpaceDIY/Fuel_Tracker/releases
 
-[license-shield]: https://img.shields.io/github/license/SpaceDIY/Fuel_Tracker.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/JGAguado/Fuel_Tracker.svg?style=for-the-badge
 
 [maintenance-shield]: https://img.shields.io/badge/maintainer-J.%20G.%20Aguado-blue.svg?style=for-the-badge
-[maintenance]: https://github.com/SpaceDIY
+[maintenance]: https://github.com/JGAguado
 
 [buymecoffee-shield]: https://img.shields.io/badge/buy%20me%20a%20coffee-support-yellow.svg?style=for-the-badge
 [buymecoffee]: https://www.buymeacoffee.com/J.G.Aguado
