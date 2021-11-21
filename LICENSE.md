@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2021 J.G.Aguado @SpaceDIY
+Copyright (c) 2021 J.G.Aguado @JGAguado
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
