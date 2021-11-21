@@ -76,8 +76,8 @@ For visualizing such cool graph, use the [mini-graph-card](https://github.com/ka
 [hacs-shield]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [hacs]: https://github.com/custom-components/hacs
 
-[releases-shield]: https://img.shields.io/github/release/SpaceDIY/Fuel_Tracker.svg?style=for-the-badge
-[releases]: https://github.com/SpaceDIY/Fuel_Tracker/releases
+[releases-shield]: https://img.shields.io/github/release/JGAguado/Fuel_Tracker.svg?style=for-the-badge
+[releases]: https://github.com/JGAguado/Fuel_Tracker/releases
 
 [license-shield]: https://img.shields.io/github/license/JGAguado/Fuel_Tracker.svg?style=for-the-badge
 
